@@ -1,0 +1,10 @@
+*
+!banner/
+!banner/*
+!brand/
+!brand/*
+!logo/
+!logo/*
+!sample/
+!sample/*
+!.gitignore
